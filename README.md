@@ -1,4 +1,4 @@
-# test
+# README.md generator 
 
 ## Table of Contents:
   1. [Description](#description) 
@@ -11,25 +11,25 @@
   8. [E-mail](#E-mail)
 
 ## Description
-test 
+This is an automated readme generator that uses NPM inquirer and Node.js to create a readme file.  
 
 ## Installation
-test
+To begin using this program you have to run ‘npm install inquirer’ first. 
 
 ## Usage
-test
+Run ‘node index.js’ in your terminal, after you will be prompted to enter your input. The input you enter will be used for your readme. 
 
 ## Contributing
-test
+https://github.com/Allan-Ngwenya/ 
 
 ## repository
-test
+Updates have been added through the Dev Branch on https://github.com/Allan-Ngwenya/README-Generator 
 
 ## License
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## GitHub
-test
+https://github.com/Allan-Ngwenya/ 
 
 ## E-mail
-test
+exampe@hotmail.co.uk 
