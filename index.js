@@ -43,7 +43,7 @@ function init() {
 			{
 				type: "input",
 				message: "How do people update the repository?",
-				name: "repositpry"
+				name: "repository"
 			},
 			{
 				type: "input",
