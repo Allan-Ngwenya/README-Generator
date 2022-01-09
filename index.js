@@ -56,4 +56,9 @@ function init() {
 				name: "email"
 			},
 		])
+		.then((response) => {
+			return fs.writeFileSync(path.join(process.cwd(), "README.md"), generate(response));
+		});
+}
 
+init();
