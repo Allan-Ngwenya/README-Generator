@@ -33,3 +33,6 @@ https://github.com/Allan-Ngwenya/
 
 ## E-mail
 exampe@hotmail.co.uk 
+
+## Walkthrough Video 
+https://drive.google.com/file/d/1pHaCXReLhKeD32R8_OgCPLWhZOWKfIe7/view?usp=sharing
